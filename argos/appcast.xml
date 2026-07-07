@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Argos</title>
+        <item>
+            <title>0.2.3</title>
+            <pubDate>Tue, 07 Jul 2026 09:50:40 +0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://updates.zisheng.pro/argos/Argos-0.2.3.dmg" length="18571367" type="application/octet-stream" sparkle:edSignature="wQVo2dOvmSXyRDqzTFO9uiFTVKX66jeNlfcrYx+As6FCwZNEav08HdGTE8TNGoBhr52wj7ivjvAv/UPwHKCaDA=="/>
+        </item>
+    </channel>
+</rss>
