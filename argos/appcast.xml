@@ -3,12 +3,12 @@
     <channel>
         <title>Argos</title>
         <item>
-            <title>0.3.3</title>
-            <pubDate>Wed, 08 Jul 2026 08:21:25 +0800</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <title>0.3.4</title>
+            <pubDate>Wed, 08 Jul 2026 09:37:12 +0800</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.zisheng.pro/argos/Argos-0.3.3.dmg" length="18754616" type="application/octet-stream" sparkle:edSignature="aQ6QtpAZ8vxbmgiQJrb5KKlQYP9nAFVSPNJac7XuiicLPSI4uKyfVcea3mdogN/oEGDzDoFC73oYjNiQhjv6DA=="/>
+            <enclosure url="https://updates.zisheng.pro/argos/Argos-0.3.4.dmg" length="18719278" type="application/octet-stream" sparkle:edSignature="WLQtWLvyOrk2QhSQQNZL7YkusWRMMyGjofqTKsvIYLwtr21tn7PitbtW/LIuIxz5+4RKPPpVnqshsDyr1U1pCw=="/>
         </item>
     </channel>
 </rss>
