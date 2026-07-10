@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Owlet</title>
+        <item>
+            <title>0.4.2</title>
+            <pubDate>Fri, 10 Jul 2026 09:53:40 +0800</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://updates.zisheng.pro/owlet/Owlet-0.4.2.dmg" length="12121817" type="application/octet-stream" sparkle:edSignature="lBxc/bY3YilyqETszm+JN0RTXYqQBwmHcIxiWYU4VW/itadEK4KtUOlLNA80Q5hVyPeCeT2zhqOtULKjPY1WDA=="/>
+        </item>
+    </channel>
+</rss>

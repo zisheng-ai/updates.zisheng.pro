@@ -1,10 +1,11 @@
 # updates.zisheng.pro
 
-Public static update feed for Argos.
+Public static update feed for Owlet.
 
 ## Layout
 
-- argos/appcast.xml - Sparkle appcast feed.
-- argos/Argos-<version>.dmg - downloadable Argos release archive.
+- owlet/appcast.xml - Sparkle appcast feed.
+- owlet/Owlet-<version>.dmg - immutable, downloadable Owlet release archive.
+- owlet/Owlet.dmg - latest-download alias (always points at the newest release).
 
-Upload generated files from /Users/zisheng/github/argos/dist/updates/ into argos/.
+Upload generated files from /Users/zisheng/github/argos/dist/updates/ into owlet/.
